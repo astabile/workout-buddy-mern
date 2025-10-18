@@ -213,10 +213,10 @@ This project is [MIT](LICENSE) licensed.
 
 ## 👨‍💻 Author
 
-**Alejandro Stabile**
+**Alejandro Stábile**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@astabile](https://github.com/astabile)
+- LinkedIn: [Alejandro Stábile](https://linkedin.com/in/astabile)
 
 ## 🙏 Acknowledgments
 
