@@ -80,6 +80,9 @@ npm install --save-dev nodemon
 - `dotenv` - Load environment variables
 - `mongoose` - MongoDB ODM library
 - `cors` - Enable communication between different ports
+- `bcrypt` - Used for password hashing
+- `validator` - Used for string validation and sanitization
+- `jsonwebtoken`- Used for securely transmitting information between client and server
 - `nodemon` - Auto-restart server on file changes (dev only)
 
 ### 3. Create `.env` file in backend folder
